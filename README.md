@@ -8,4 +8,4 @@ Projeye Stillendirme Boostrap Dahil edildi
 5-bookList stateinde tuutlan kitapları map metodu ekran bir card ile göster
 6-BookCard daki sil butonuna tıklanıldığında kitabın silinmesi işlemi
 
-![](ekran.gif)# React-Crud-App
+![](ekran.gif) # React-Crud-App
